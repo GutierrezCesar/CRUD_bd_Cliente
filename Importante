@@ -1,5 +1,5 @@
 TENER INSTALADO: 
 - POSTGRES(https://dbeaver.io/)
 - DOCKER
-EJECUTAR LOS COMANDOS PARA IMG: 
+EJECUTAR EL COMANDO PARA IMG: 
 - docker run --name some-postgres -e POSTGRES_USER=cesar -e POSTGRES_PASSWORD=123456 -e POSTGRES_DB=proyectoF -p 5432:5432 -d postgres
