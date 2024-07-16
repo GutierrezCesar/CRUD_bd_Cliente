@@ -1,0 +1,15 @@
+com\example\demo\DemoApplication.class
+com\example\demo\Model\dao\ClienteDao.class
+com\example\demo\Model\entity\Ventas$VentasBuilder.class
+com\example\demo\Service\ClienteService.class
+com\example\demo\Model\entity\Productos$ProductosBuilder.class
+com\example\demo\Model\dto\ClienteDto$ClienteDtoBuilder.class
+com\example\demo\Controller\ClienteCrontolador.class
+com\example\demo\Model\dto\ClienteDto.class
+com\example\demo\Model\entity\Clientes$ClientesBuilder.class
+com\example\demo\Service\Imp\ClienteServicesImp.class
+com\example\demo\Model\entity\Productos.class
+com\example\demo\Model\entity\Detalle_ventas$Detalle_ventasBuilder.class
+com\example\demo\Model\entity\Detalle_ventas.class
+com\example\demo\Model\entity\Ventas.class
+com\example\demo\Model\entity\Clientes.class
